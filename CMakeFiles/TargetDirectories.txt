@@ -1,0 +1,3 @@
+/Users/cjs/Development/codecrafters-http-server-c/CMakeFiles/http-server.dir
+/Users/cjs/Development/codecrafters-http-server-c/CMakeFiles/edit_cache.dir
+/Users/cjs/Development/codecrafters-http-server-c/CMakeFiles/rebuild_cache.dir
